@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "array": "c",
+        "string_view": "c",
+        "new": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
